@@ -1,0 +1,15 @@
+D:\Git_projects\С#\Lession_1\bin\Debug\net7.0\Lession_1.exe
+D:\Git_projects\С#\Lession_1\bin\Debug\net7.0\Lession_1.deps.json
+D:\Git_projects\С#\Lession_1\bin\Debug\net7.0\Lession_1.runtimeconfig.json
+D:\Git_projects\С#\Lession_1\bin\Debug\net7.0\Lession_1.dll
+D:\Git_projects\С#\Lession_1\bin\Debug\net7.0\Lession_1.pdb
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.csproj.AssemblyReference.cache
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.AssemblyInfoInputs.cache
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.AssemblyInfo.cs
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.csproj.CoreCompileInputs.cache
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.dll
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\refint\Lession_1.dll
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.pdb
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\Lession_1.genruntimeconfig.cache
+D:\Git_projects\С#\Lession_1\obj\Debug\net7.0\ref\Lession_1.dll
