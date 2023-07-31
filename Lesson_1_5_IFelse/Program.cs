@@ -1,9 +1,9 @@
-﻿Console.Write("Введите имя пользователя");
+﻿Console.WriteLine("Введите имя пользователя");
 string username = Console.ReadLine();
 
-if(username == "Маша")
+if(username.ToLower() == "Маша")
 {
-    Console.WriteLine("Ура, это же МАША!");
+    global::System.Object value = Console.WriteLine("Вау, это же МАША!");
 }
 else 
 {
