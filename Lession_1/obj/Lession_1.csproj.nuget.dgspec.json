@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj": {}
+    "d:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj": {}
   },
   "projects": {
-    "D:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj": {
+    "d:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj",
+        "projectUniqueName": "d:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj",
         "projectName": "Lession_1",
-        "projectPath": "D:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj",
+        "projectPath": "d:\\Git_projects\\С#\\Lession_1\\Lession_1.csproj",
         "packagesPath": "C:\\Users\\14202\\.nuget\\packages\\",
-        "outputPath": "D:\\Git_projects\\С#\\Lession_1\\obj\\",
+        "outputPath": "d:\\Git_projects\\С#\\Lession_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\14202\\AppData\\Roaming\\NuGet\\NuGet.Config"
