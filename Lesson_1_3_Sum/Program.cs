@@ -1,6 +1,5 @@
-﻿Console.WriteLine("Введите первое число");
-int numberA = 6;
-Console.WriteLine("Введите второе число");
-int numberB = 4;
-Console.Write("Введите второе число");
+﻿int numberA = new Random().Next(1, 10);
+Console.WriteLine(numberA);
+int numberB = new Random().Next(10, 20);
+Console.WriteLine(numberB);
 Console.Write(numberA + numberB);
